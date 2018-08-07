@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Currículo
 
 You can use the [editor on GitHub](https://github.com/arrudaRobson/cv/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
